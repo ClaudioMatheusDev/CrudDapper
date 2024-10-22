@@ -1,5 +1,6 @@
 ﻿using CrudDapper.Dto;
 using CrudDapper.Models;
+using System.Data.SqlClient;
 
 namespace CrudDapper.Services
 {
@@ -14,7 +15,10 @@ namespace CrudDapper.Services
 
         public Task<ResponseModel<List<UsuarioListarDto>>> BuscarUsuarios()
         {
-            throw new NotImplementedException();
+            using (var connection = new SqlConnection(_configuration.GetConnectionString("DefaultConnection")))//Iniciando conexão dentro do USING
+            {
+
+            }
         }
     }
 }
