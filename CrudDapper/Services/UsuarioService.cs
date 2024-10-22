@@ -1,4 +1,5 @@
-﻿using CrudDapper.Dto;
+﻿using AutoMapper;
+using CrudDapper.Dto;
 using CrudDapper.Models;
 using Dapper;
 using System.Collections.Generic;
@@ -10,14 +11,16 @@ namespace CrudDapper.Services
     {
 
         private readonly IConfiguration _configuration;
-        public UsuarioService(IConfiguration configuration)
+        private readonly IMapper _mapper;   
+        public UsuarioService(IConfiguration configuration, IMapper mapper)
         {
             _configuration = configuration;
+            _mapper = mapper;
         }
 
         public async Task<ResponseModel<List<UsuarioListarDto>>> BuscarUsuarios()
         {
-            ResponseModel<List<UsuarioListarDto>> response = new ResponseModel<List<UsuarioListarDto>>;
+            ResponseModel<List<UsuarioListarDto>> response = new ResponseModel<List<UsuarioListarDto>>();
 
             using (var connection = new SqlConnection(_configuration.GetConnectionString("DefaultConnection")))//Iniciando conexão dentro do USING
             {
@@ -30,16 +33,18 @@ namespace CrudDapper.Services
                     response.Status = false;
                     return response;
                 }
+
+
                 //Transformação Mapper
 
+                var usuarioMapeado = _mapper.Map<List<UsuarioListarDto>>(usuariosBanco);
 
-
-                // response.Dados = usuariosBanco;
-                //response.Mensagem = "Usuários localizados com sucesso!";
+                response.Dados = usuarioMapeado;
+                response.Mensagem = "Usuários localizados com sucesso!";
 
 
             }
-
+            return response;
         }
     }
 }
