@@ -1,4 +1,5 @@
-﻿using CrudDapper.Services;
+﻿using CrudDapper.Models;
+using CrudDapper.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -26,6 +27,20 @@ namespace CrudDapper.Controllers
             }
 
             return Ok(usuarios);
+        }
+
+
+        [HttpGet ("{usuarioId}")]
+        public async Task<IActionResult> BuscarUsuarioPorId(int usuarioId)
+        {
+             var usuario = await _usuarioInterface.BuscarUsuarioPorId(usuarioId);
+
+            if (usuario.Status = false)
+            {
+                return NotFound(usuario);
+            }
+
+            return Ok(usuario);
         }
 
     }
