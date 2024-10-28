@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|c:\\users\\claud\\onedrive\\desktop\\projetos\\projetos\\cruddapper\\cruddapper\\cruddapper\\services\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\services\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|c:\\users\\claud\\onedrive\\desktop\\projetos\\projetos\\cruddapper\\cruddapper\\cruddapper\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +15,8 @@
       "RelativeMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|c:\\users\\claud\\onedrive\\desktop\\projetos\\projetos\\cruddapper\\cruddapper\\cruddapper\\profiles\\profileautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\profiles\\profileautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|c:\\users\\claud\\onedrive\\desktop\\projetos\\projetos\\cruddapper\\cruddapper\\cruddapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|c:\\users\\claud\\onedrive\\desktop\\projetos\\projetos\\cruddapper\\cruddapper\\cruddapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|c:\\users\\claud\\onedrive\\desktop\\projetos\\projetos\\cruddapper\\cruddapper\\cruddapper\\services\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\services\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|c:\\users\\claud\\onedrive\\desktop\\projetos\\projetos\\cruddapper\\cruddapper\\cruddapper\\dto\\usuariocriardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\dto\\usuariocriardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|c:\\users\\claud\\onedrive\\desktop\\projetos\\projetos\\cruddapper\\cruddapper\\cruddapper\\dto\\usuariolistardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +25,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|c:\\users\\claud\\onedrive\\desktop\\projetos\\projetos\\cruddapper\\cruddapper\\cruddapper\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|c:\\users\\claud\\onedrive\\desktop\\projetos\\projetos\\cruddapper\\cruddapper\\cruddapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|c:\\users\\claud\\onedrive\\desktop\\projetos\\projetos\\cruddapper\\cruddapper\\cruddapper\\profiles\\profileautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\profiles\\profileautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|c:\\users\\claud\\onedrive\\desktop\\projetos\\projetos\\cruddapper\\cruddapper\\cruddapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B864B0-58F3-421E-ACE4-FCC537F447F9}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,59 +54,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "UsuarioCriarDto.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Dto\\UsuarioCriarDto.cs",
+              "RelativeDocumentMoniker": "CrudDapper\\Dto\\UsuarioCriarDto.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Dto\\UsuarioCriarDto.cs",
+              "RelativeToolTip": "CrudDapper\\Dto\\UsuarioCriarDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:30:11.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProfileAutoMapper.cs",
               "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Profiles\\ProfileAutoMapper.cs",
               "RelativeDocumentMoniker": "CrudDapper\\Profiles\\ProfileAutoMapper.cs",
               "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Profiles\\ProfileAutoMapper.cs",
               "RelativeToolTip": "CrudDapper\\Profiles\\ProfileAutoMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T02:53:07.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\appsettings.json",
               "RelativeDocumentMoniker": "CrudDapper\\appsettings.json",
               "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\appsettings.json",
               "RelativeToolTip": "CrudDapper\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-17T02:27:03.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuarioService.cs",
               "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Services\\UsuarioService.cs",
               "RelativeDocumentMoniker": "CrudDapper\\Services\\UsuarioService.cs",
               "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Services\\UsuarioService.cs",
               "RelativeToolTip": "CrudDapper\\Services\\UsuarioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABoAAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwFgAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T02:11:43.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "CrudDapper\\Models\\Usuario.cs",
               "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Models\\Usuario.cs",
               "RelativeToolTip": "CrudDapper\\Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T02:23:28.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "UsuarioListarDto.cs",
               "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Dto\\UsuarioListarDto.cs",
               "RelativeDocumentMoniker": "CrudDapper\\Dto\\UsuarioListarDto.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Program.cs",
               "RelativeDocumentMoniker": "CrudDapper\\Program.cs",
@@ -123,31 +140,30 @@
               "RelativeToolTip": "CrudDapper\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T02:15:21.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T02:15:21.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "CrudDapper\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "CrudDapper\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAhAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowDUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T02:12:32.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "IUsuarioInterface.cs",
               "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Services\\IUsuarioInterface.cs",
               "RelativeDocumentMoniker": "CrudDapper\\Services\\IUsuarioInterface.cs",
               "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\PROJETOS\\PROJETOS\\CrudDapper\\CrudDapper\\CrudDapper\\Services\\IUsuarioInterface.cs",
               "RelativeToolTip": "CrudDapper\\Services\\IUsuarioInterface.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T02:12:06.35Z",
               "EditorCaption": ""

@@ -1,4 +1,5 @@
-﻿using CrudDapper.Models;
+﻿using CrudDapper.Dto;
+using CrudDapper.Models;
 using CrudDapper.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -38,6 +39,19 @@ namespace CrudDapper.Controllers
             if (usuario.Status = false)
             {
                 return NotFound(usuario);
+            }
+
+            return Ok(usuario);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CriarUsuario(UsuarioCriarDto usuarioCriarDto)
+        {
+            var usuario = await _usuarioInterface.CriarUsuario(usuarioCriarDto);
+
+            if (usuario.Status = false)
+            {
+                return BadRequest(usuario);
             }
 
             return Ok(usuario);
